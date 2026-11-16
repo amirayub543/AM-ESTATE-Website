@@ -1,0 +1,19 @@
+Rooms ki photos yahan dalain — website py khud aa jayen gi.
+
+Is folder (public/images/spaces) k andar hr room ka apna folder banayen, bilkul isi naam sy:
+
+  living-room
+  bedroom
+  bathroom
+  kitchen
+  basement
+  ground-area
+  pocket-library
+  private-cinema
+
+Phir us room ki photos (jpg, png ya webp) us folder main rakh dain.
+Misal:  public/images/spaces/bedroom/1.jpg, 2.jpg, 3.jpg
+
+- Naam k hisaab sy pehli photo (maslan 1.jpg) home page k card ki cover banti hai.
+- Baki sab photos us room k apnay page ki gallery main ati hain.
+- Photos dalnay k baad website dobara start karain (ya Vercel py dobara deploy).
